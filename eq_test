@@ -2,3 +2,4 @@ from obspy import read
 
 st = read()
 st.plot()
+#Add function plot
